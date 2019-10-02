@@ -18,9 +18,10 @@
   border: 2px solid #FFC109;
 }
 
-.checkbox_styling {
+#checkbox_styling {
   float: left;
   margin-right: 10px;
+  width: 0;
 }
 
 .deleteBtn_styling {
