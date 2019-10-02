@@ -1,0 +1,50 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+.header_box {
+  padding: 15px;
+}
+
+.primary–span {
+  display: inline-block;
+  max-width: 133px;
+}
+
+#newToDoText {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 0 0 30px 0;
+  border: 2px solid #FFC109;
+}
+
+.checkbox_styling {
+  float: left;
+  margin-right: 10px;
+}
+
+.deleteBtn_styling {
+  float: right;
+}
+
+.demo-card-wide.mdl-card {
+  width: 512px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+.list-items {
+  margin: 0 25%;
+}
+
+body {
+  background-color: #f8f8f8;
+}
+
+.toDoItem {
+  font-size: 1.2rem;
+  list-style-type: none;
+  display: inline-block;
+  width: 430px;
+  margin-top: 20px;
+}
